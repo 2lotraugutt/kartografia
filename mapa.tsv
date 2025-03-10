@@ -1,0 +1,120 @@
+Blok A	5	11A	1 
+Blok A	15	11A	2
+Blok A	1	12A	1 
+Blok A	9	12A	2 
+Blok A	13	13A	1	Nie Podłączono
+Blok A	2	13A	2 
+Blok A	7	14A	1 
+Blok A	3	14A	2 
+
+Blok B	9	1B	1 
+Blok B	8	1B	2 
+Blok B	3	2B	1 
+Blok B	4	2B	2 
+Blok B	6	3B	1 
+Blok B	7	3B	2 
+Blok B	12	11B	1 
+Blok B	11	11B	2	7 zamienione z 8
+Blok B	13	12B	1	dyskoteka
+Blok B	14	12B	2	1 zamienione z 2
+Blok B	19	13B	1 
+Blok B	18	13B	2 
+Blok B	20	14B	2 
+Blok B	21	14B	2 
+Blok B	16	13B	proj 
+Blok B	10	11B	proj 
+Blok B	1	1B	proj 
+Blok B	15	12B	proj 
+
+Serv 1	11	13	T1 
+Serv 1	3	18C	P1 
+Serv 1	4	18C	P2 
+Serv 1	2	18C	L2 
+Serv 1	8	21C	1 
+Serv 1	17	21C	2 
+Serv 1	20	23C	1 
+Serv 1	16	23C	T2 
+Serv 1	24	24C	1 
+Serv 1	10	Naucz	P1 
+Serv 1	19	Naucz	P2 
+Serv 1	12	Naucz	L1 
+Serv 1	9	Naucz	L2 
+Serv 1	1	Pielęgniarka	1 
+Serv 1	7	Pielęgniarka	2 
+Serv 1	5	Kamera	?
+Serv 1	6	Switch	?
+Serv 1	13	Kamera	?
+Serv 1	14	Switch	?
+Serv 1	15	Switch	?
+Serv 1	18	Switch	?
+
+Serv 2	2	2C	1 
+Serv 2	5	2C	2 
+Serv 2	4	3C	1 
+Serv 2	3	3C	2 
+Serv 2	9	18C	L1 
+Serv 2	8	22C	2 
+Serv 2	10	23C	2 
+Serv 2	7	24C	2 
+Serv 2	6	?
+Serv 2	11	? 
+Serv 2	12	? 
+Serv 2	6	Sekretariat	1 
+Serv 2	13	Sekretariat	2 
+Serv 2	7	Sekretariat	3 
+Serv 2	5	VC-Dyr	1 
+Serv 2	14	VC-Dyr	2 
+
+Serv 3	17	4C	1 
+Serv 3	18	4C	2 
+Serv 3	10	14C	1 
+Serv 3	1	14C	2 
+Serv 3	2	Pedagog	1 
+Serv 3	3	Pedagog	2 
+Serv 3	6	Sekretariat	1 
+Serv 3	13	Sekretariat	2 
+Serv 3	7	Sekretariat	3 
+Serv 3	5	VC-Dyr	1 
+Serv 3	14	VC-Dyr	2 
+Serv 3	15	Dyrektor	1 
+Serv 3	9	Dyrektor	2 
+Serv 3	19	Portiernia	1 
+Serv 3	20	Portiernia	2 
+Serv 3	8	Kamera	?
+Serv 3	11	?	?
+Serv 3	12	Access point	?
+Serv 3	16	?	?
+
+WFisci	? 	WF-Damski	1	1 kreska
+WFisci	?	WF-Damski	2	gruby	
+WFisci	? 	WF-Męski	1 	3 kreski
+WFisci	? 	WF-Męski	2 	2 kreski
+WFisci	19	5C	?
+WFisci	20	6C	?
+WFisci	6	Sprzątaczki	?
+WFisci	7	Ratownicy	?
+WFisci	8	Konserwator	?	Zyla Druga nie działa
+WFisci	13	Kamera	?
+WFisci	14	Kamera	?
+WFisci	16	Kamera	?
+WFisci	17	Kamera	?
+WFisci	9	?	? 	
+WFisci	15	?	? 	
+WFisci	23	?	? 	
+WFisci	24	?	? 	
+
+Bibl	16	1A	1 
+Bibl	1	2A	1 
+Bibl	3	2A	2 
+Bibl	4	3A	1 
+Bibl	5	3A	2 
+Bibl	7	Biblioteka	1P 
+Bibl	8	Biblioteka	2P 
+Bibl	9	Biblioteka	1T 
+Bibl	10	Biblioteka	2T 
+Bibl	11	Biblioteka	3T 
+Bibl	12	Biblioteka	4T 
+Bibl	2	?	?
+Bibl	6	Kamery	?
+Bibl	13	Switch	?
+Bibl	14	Switch	?

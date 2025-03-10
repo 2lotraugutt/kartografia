@@ -8,6 +8,8 @@ Adress IP	Urządzenie	Adress MAC	Komentarz
 .so ipaddr.tsv
 .TE
 
+.bp +1
+
 .NH 1
 Mapa Fizyczna Sieci
 .LP

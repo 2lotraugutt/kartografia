@@ -1,0 +1,19 @@
+.NH 1
+Mapa Adresowa Sieci
+.LP
+.TS
+Lb Lb L Lb
+L L Lp-2 Li .
+Adress IP	Urządzenie	Adress MAC	Komentarz
+.so ipaddr.tsv
+.TE
+
+.NH 1
+Mapa Fizyczna Sieci
+.LP
+.TS
+Lb Lb Lb Lb L
+L Lb L C Li .
+Obszar	Port	Sala	Gniazdo	Komentarz
+.so mapa.tsv
+.TE

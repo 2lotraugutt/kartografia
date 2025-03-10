@@ -1,6 +1,6 @@
-all: mapa.pdf
+all: doc.pdf
 
 
-mapa.pdf: $(wildcard *.tsv)
+doc.pdf: $(wildcard *.tsv)
 %.pdf: %.ms
 	 < $< soelim | groff -s -k -ms -t -Tpdf  > $@

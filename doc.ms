@@ -15,7 +15,7 @@ Mapa Fizyczna Sieci
 .LP
 .TS
 Lb Lb Lb Lb L
-L Lb L C Li .
-Obszar	Port	Sala	Gniazdo	Komentarz
+L Lb L C Cb Li .
+Obszar	Port	Sala	Gniazdo	VLAN	Komentarz
 .so mapa.tsv
 .TE

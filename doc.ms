@@ -3,7 +3,7 @@ Mapa Adresowa Sieci
 .LP
 .TS
 Lb Lb L Lb
-L L Lp-2 Li .
+L L Lp-2fC Li .
 Adress IP	Urządzenie	Adress MAC	Komentarz
 .so ipaddr.tsv
 .TE

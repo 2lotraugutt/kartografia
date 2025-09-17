@@ -17,7 +17,6 @@ Blok A	15	11A	2	KMP(5)
 Blok A	24 AP	Korytarz A1	3
 Blok A	16	Kamera	blok a dol	CAM(6)
 Blok A	23	Kamera	blok a gora	CAM(6)
-Blok A	23	Kamera	blok a gora	CAM(6)
 
 Blok B	1	1B	proj	KMP(5)
 Blok B	3	2B	1	KMP(5)
@@ -42,44 +41,45 @@ Blok B	24	14B	2	KMP(5)
 
 Serv 1	1	Clound Key Plus	-	WIFI(3)
 Serv 1	2	Rozdzielnia Silican	-	KMP(5)
-Serv 1	3	2C	1	KMP(5)
-Serv 1	4	18C	P2	KMP(5)
+Serv 1	4	2C	1	KMP(5)
+Serv 1	4	2C	2	KMP(5)	guess
 Serv 1	5	3C	1	KMP(5)
-Serv 1	6	Switch	?	KMP(5)
+Serv 1	6	3C	2	KMP(5)	guess
 Serv 1	7	Pielęgniarka	2	KMP(5)
-Serv 1	8	21C?	1	KMP(5)
-Serv 1	9	Naucz	L2	NAU(4)
+Serv 1	8	21C	1	KMP(5)	guess
+Serv 1	9	14C	?	NAU(4)
 Serv 1	10	Naucz	P1	NAU(4)
 Serv 1	11	13	T1	KMP(5)
 Serv 1	12	Naucz	L1	NAU(4)
 Serv 1	15	Naucz	?	NAU(4)
-Serv 1	16	23C?	T2	KMP(5)
+Serv 1	16	23C	T2	KMP(5)	guess
 Serv 1	17	Naucz	?	KMP(5)
 Serv 1	18	Switch	?	KMP(5)
 Serv 1	19	Jola?	?	KMP(5)
 Serv 1	20	23C	1	KMP(5)
-Serv 1	24	24C	1	KMP(5)
-Serv 1	25	Blok B?	-	TRUNK
+Serv 1	24	?	1	KMP(5)
+Serv 1	25	Blok B	-	TRUNK
 Serv 1	26	Bibl	-	TRUNK
 
-Serv 2	1	???	 	 
-Serv 2	2	???	 	 	10.10.31.10/Telefon
+Serv 2	1	?	 	 
+Serv 2	2	?	 	 	10.10.31.10 Telefon nie wpisany
 Serv 2	3	3C	2	KMP(5)
 Serv 2	4	3C	1	KMP(5)
 Serv 2	5	2C	2	KMP(5)
 Serv 2	5	VC-Dyr	1 ?	KMP(5)
-Serv 2	6	Sekretariat	1	KMP(5)
+Serv 2	6	Ksiegowosc	KMP(5)	Telefon
 Serv 2	7	Sekretariat	3	KMP(5)
 Serv 2	8	22C	2	KMP(5)
-Serv 2	9	21C	1	KMP(5)
+Serv 2	9	21C	1	KMP(5)	w hostname
 Serv 2	10	23C	2	KMP(5)
-Serv 2	11	22C?	2	KMP(5)
-Serv 2	12	?		KMP(5)
+Serv 2	11	22C	2	KMP(5)	guess
+Serv 2	12	23C	?	KMP(5)
 Serv 2	13	Sekretariat	2	KMP(5)
 Serv 2	14	VC-Dyr	2	KMP(5)
-Serv 2	16	?	?	?
-Serv 2	17	?	?	?
+Serv 2	16	24C	1	KMP(5)
+Serv 2	17	24C	2	KMP(5)
 Serv 2	14	VC-Dyr	2	KMP(5)
+Serv 2	22	22C	?	KMP(5)	hostname
 Serv 2	25	Sala Inf	-	TRUNK
 
 Serv 3	1	14C	2	KMP(5)

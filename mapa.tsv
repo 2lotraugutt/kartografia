@@ -1,139 +1,139 @@
-Router	1	Outside
-Router	3	Server Domena
-Router	4	Recorder
-Router	6	Server Web
-Router	7	Serv 1
-Router	8	Serv 2
-Router	9	Serv 3
+Router	1	Outside			
+Router	3	Server Domena			
+Router	4	Recorder			
+Router	6	Server Web			
+Router	7	Serv 1			
+Router	8	Serv 2			
+Router	9	Serv 3			
 
-Blok A	1	12A	1	KMP(5)
-Blok A	2	13A	2	KMP(5)
-Blok A	3	14A	2	KMP(5)
-Blok A	6	11A	1	KMP(5)
-Blok A	7	14A	1	KMP(5)
-Blok A	9	12A	2	KMP(5)
-Blok A	13	13A	1	KMP(5)	Nie Podłączono
-Blok A	15	11A	2	KMP(5)
-Blok A	24 AP	Korytarz A1	3
-Blok A	16	Kamera	blok a dol	CAM(6)
-Blok A	23	Kamera	blok a gora	CAM(6)
+Blok A	1	12A	1	KOMP(5)	
+Blok A	2	13A	2	KOMP(5)	
+Blok A	3	14A	2	KOMP(5)	
+Blok A	6	11A	1	KOMP(5)	
+Blok A	7	14A	1	KOMP(5)	
+Blok A	9	12A	2	KOMP(5)	
+Blok A	13	13A	1	KOMP(5)	Nie Podłączono
+Blok A	15	11A	2	KOMP(5)	
+Blok A	24 AP	Korytarz A1	3		
+Blok A	16	Kamera	blok a dol	CAMR(6)	
+Blok A	23	Kamera	blok a gora	CAMR(6)	
 
-Blok B	1	1B	proj	KMP(5)
-Blok B	3	2B	1	KMP(5)
-Blok B	4	2B	2	KMP(5)
-Blok B	6	3B	1	KMP(5)
-Blok B	7	3B	2	KMP(5)
-Blok B	8	1B	2	KMP(5)
-Blok B	9	1B	1	KMP(5)
-Blok B	10	11B	proj	KMP(5)
-Blok B	11	11B	2	KMP(5)	7 zamienione z 8
-Blok B	12	11B	1	KMP(5)
-Blok B	13	12B	1	KMP(5)	dyskoteka
-Blok B	14	12B	2	KMP(5)	1 zamienione z 2
-Blok B	15	12B	proj	KMP(5)
-Blok B	16	13B	proj	KMP(5)
-Blok B	18	13B	2	KMP(5)
-Blok B	19	13B	1	KMP(5)
-Blok B	20	14B	2	KMP(5)
-Blok B	21	Kamery	b	CAM(6)
-Blok B	23	AP	B2	WIFI(3)
-Blok B	24	14B	2	KMP(5)
+Blok B	1	1B	proj	KOMP(5)	
+Blok B	3	2B	1	KOMP(5)	
+Blok B	4	2B	2	KOMP(5)	
+Blok B	6	3B	1	KOMP(5)	
+Blok B	7	3B	2	KOMP(5)	
+Blok B	8	1B	2	KOMP(5)	
+Blok B	9	1B	1	KOMP(5)	
+Blok B	10	11B	proj	KOMP(5)	
+Blok B	11	11B	2	KOMP(5)	7 zamienione z 8
+Blok B	12	11B	1	KOMP(5)	
+Blok B	13	12B	1	KOMP(5)	Dyskoteka
+Blok B	14	12B	2	KOMP(5)	1 zamienione z 2
+Blok B	15	12B	proj	KOMP(5)	
+Blok B	16	13B	proj	KOMP(5)	
+Blok B	18	13B	2	KOMP(5)	
+Blok B	19	13B	1	KOMP(5)	
+Blok B	20	14B	2	KOMP(5)	
+Blok B	21	Kamery	b	CAMR(6)	
+Blok B	23	AP	B2	WIFI(3)	
+Blok B	24	14B	2	KOMP(5)	
 
-Serv 1	1	Clound Key Plus	-	WIFI(3)
-Serv 1	2	Rozdzielnia Silican	-	KMP(5)
-Serv 1	4	2C	1	KMP(5)
-Serv 1	4	2C	2	KMP(5)	guess
-Serv 1	5	3C	1	KMP(5)
-Serv 1	6	3C	2	KMP(5)	guess
-Serv 1	7	Pielęgniarka	2	KMP(5)
-Serv 1	8	21C	1	KMP(5)	guess
-Serv 1	9	14C	?	NAU(4)
-Serv 1	10	Naucz	P1	NAU(4)
-Serv 1	11	13	T1	KMP(5)
-Serv 1	12	Naucz	L1	NAU(4)
-Serv 1	15	Naucz	?	NAU(4)
-Serv 1	16	23C	T2	KMP(5)	guess
-Serv 1	17	Naucz	?	KMP(5)
-Serv 1	18	Switch	?	KMP(5)
-Serv 1	19	Jola?	?	KMP(5)
-Serv 1	20	23C	1	KMP(5)
-Serv 1	24	?	1	KMP(5)
-Serv 1	25	Blok B	-	TRUNK
-Serv 1	26	Bibl	-	TRUNK
+Serv 1	1	Clound Key Plus	-	WIFI(3)	
+Serv 1	2	Rozdzielnia Silican	-	KOMP(5)	
+Serv 1	4	2C	1	KOMP(5)	
+Serv 1	4	2C	2	KOMP(5)	Niepewny
+Serv 1	5	3C	1	KOMP(5)	
+Serv 1	6	3C	2	KOMP(5)	Niepewny
+Serv 1	7	Pielęgniarka	2	KOMP(5)	
+Serv 1	8	21C	1	KOMP(5)	Niepewny
+Serv 1	9	14C	?	NACZ(4)	
+Serv 1	10	Naucz	P1	NACZ(4)	
+Serv 1	11	13	T1	KOMP(5)	
+Serv 1	12	Naucz	L1	NACZ(4)	
+Serv 1	15	Naucz	?	NACZ(4)	
+Serv 1	16	23C	T2	KOMP(5)	Niepewny
+Serv 1	17	Naucz	?	KOMP(5)	
+Serv 1	18	Switch	?	KOMP(5)	
+Serv 1	19	Jola?	?	KOMP(5)	
+Serv 1	20	23C	1	KOMP(5)	
+Serv 1	24	?	1	KOMP(5)	
+Serv 1	25	Blok B	-	TRUNK	
+Serv 1	26	Bibl	-	TRUNK	
 
-Serv 2	1	?	 	 
-Serv 2	2	?	 	 	10.10.31.10 Telefon nie wpisany
-Serv 2	3	3C	2	KMP(5)
-Serv 2	4	3C	1	KMP(5)
-Serv 2	5	2C	2	KMP(5)
-Serv 2	5	VC-Dyr	1 ?	KMP(5)
-Serv 2	6	Ksiegowosc	KMP(5)	Telefon
-Serv 2	7	Sekretariat	3	KMP(5)
-Serv 2	8	22C	2	KMP(5)
-Serv 2	9	21C	1	KMP(5)	w hostname
-Serv 2	10	23C	2	KMP(5)
-Serv 2	11	22C	2	KMP(5)	guess
-Serv 2	12	23C	?	KMP(5)
-Serv 2	13	Sekretariat	2	KMP(5)
-Serv 2	14	VC-Dyr	2	KMP(5)
-Serv 2	16	24C	1	KMP(5)
-Serv 2	17	24C	2	KMP(5)
-Serv 2	14	VC-Dyr	2	KMP(5)
-Serv 2	22	22C	?	KMP(5)	hostname
-Serv 2	25	Sala Inf	-	TRUNK
+Serv 2	1	?	 	 	
+Serv 2	2	?	 	TELE(7) 	IP: 10.10.31.10
+Serv 2	3	3C	2	KOMP(5)	
+Serv 2	4	3C	1	KOMP(5)	
+Serv 2	5	2C	2	KOMP(5)	
+Serv 2	5	VC-Dyr	1 ?	KOMP(5)	
+Serv 2	6	Ksiegowosc		TELE(7)	Telefon
+Serv 2	7	Sekretariat	3	KOMP(5)	
+Serv 2	8	22C	2	KOMP(5)	
+Serv 2	9	21C	1	KOMP(5)	w hostname
+Serv 2	10	23C	2	KOMP(5)	
+Serv 2	11	22C	2	KOMP(5)	Niepewny
+Serv 2	12	23C	?	KOMP(5)	
+Serv 2	13	Sekretariat	2	KOMP(5)	
+Serv 2	14	VC-Dyr	2	KOMP(5)	
+Serv 2	16	24C	1	KOMP(5)	
+Serv 2	17	24C	2	KOMP(5)	
+Serv 2	14	VC-Dyr	2	KOMP(5)	
+Serv 2	22	22C	?	KOMP(5)	hostname
+Serv 2	25	Sala Inf	-	TRUNK	
 
-Serv 3	1	14C	2	KMP(5)
-Serv 3	2	Pedagog	1	KMP(5)
-Serv 3	3	Pedagog	2	KMP(5)
-Serv 3	5	VC-Dyr	1	KMP(5)
-Serv 3	6	Sekretariat	1	KMP(5)
-Serv 3	7	Sekretariat	3	KMP(5)
-Serv 3	9	Dyrektor	2	KMP(5)
-Serv 3	10	14C	1	KMP(5)
-Serv 3	11	AP	C1	WIFI(3)
-Serv 3	12	AP	C2	WIFI(3)
-Serv 3	13	AP 	C0	WIFI(3)
-Serv 3	14	Kamera	16	CAM(6)
-Serv 3	15	Kamera	7	CAM(6)
-Serv 3	16	Kamera	10	CAM(6)
-Serv 3	17	Kamera	9	CAM(6)
-Serv 3	18	Kamera	12	CAM(6)
-Serv 3	19	Kamera	26	CAM(6)
-Serv 3	20	Kamera	15	CAM(6)
-Serv 3	21	Kamera	30	CAM(6)
-Serv 3	22	Kamera	6	CAM(6)
-Serv 3	22	Kamera	17	CAM(6)
-Serv 3	25	Blok A	-	TRUNK
-Serv 3	26	WFisci	-	TRUNK
+Serv 3	1	14C	2	KOMP(5)	
+Serv 3	2	Pedagog	1	KOMP(5)	
+Serv 3	3	Pedagog	2	KOMP(5)	
+Serv 3	5	VC-Dyr	1	KOMP(5)	
+Serv 3	6	Sekretariat	1	KOMP(5)	
+Serv 3	7	Sekretariat	3	KOMP(5)	
+Serv 3	9	Dyrektor	2	KOMP(5)	
+Serv 3	10	14C	1	KOMP(5)	
+Serv 3	11	AP	C1	WIFI(3)	
+Serv 3	12	AP	C2	WIFI(3)	
+Serv 3	13	AP 	C0	WIFI(3)	
+Serv 3	14	Kamera	16	CAMR(6)	
+Serv 3	15	Kamera	7	CAMR(6)	
+Serv 3	16	Kamera	10	CAMR(6)	
+Serv 3	17	Kamera	9	CAMR(6)	
+Serv 3	18	Kamera	12	CAMR(6)	
+Serv 3	19	Kamera	26	CAMR(6)	
+Serv 3	20	Kamera	15	CAMR(6)	
+Serv 3	21	Kamera	30	CAMR(6)	
+Serv 3	22	Kamera	6	CAMR(6)	
+Serv 3	22	Kamera	17	CAMR(6)	
+Serv 3	25	Blok A	-	TRUNK	
+Serv 3	26	WFisci	-	TRUNK	
 
-WFisci	? 	WF-Damski	1	1	1 kreska
-WFisci	?	WF-Damski	2	1	gruby
-WFisci	? 	WF-Męski	1 	1	3 kreski
-WFisci	? 	WF-Męski	2 	1	2 kreski
-WFisci	19	5C	?	1
-WFisci	20	6C	?	1
-WFisci	6	Sprzątaczki	?	1
-WFisci	7	Ratownicy	?	1
-WFisci	8	Konserwator	?	1	Zyla Druga nie działa
-WFisci	13	Kamera	?	2
-WFisci	14	Kamera	?	2
-WFisci	16	Kamera	?	2
-WFisci	17	Kamera	?	2
-WFisci	9	?	?	1
-WFisci	15	?	?	1
-WFisci	23	?	?	1
-WFisci	24	?	?	1
+WFisci	? 	WF-Damski	1	KOMP(5)	1 Kreska
+WFisci	?	WF-Damski	2	KOMP(5)	Gruby
+WFisci	? 	WF-Męski	1 	KOMP(5)	3 Kreski
+WFisci	? 	WF-Męski	2 	KOMP(5)	2 Kreski
+WFisci	19	5C	?	KOMP(5)	
+WFisci	20	6C	?	KOMP(5)	
+WFisci	6	Sprzątaczki	?	KOMP(5)	
+WFisci	7	Ratownicy	?	KOMP(5)	
+WFisci	8	Konserwator	?	KOMP(5)	Zyla Druga nie działa
+WFisci	13	Kamera	?	CAMR(6)	
+WFisci	14	Kamera	?	CAMR(6)	
+WFisci	16	Kamera	?	CAMR(6)	
+WFisci	17	Kamera	?	CAMR(6)	
+WFisci	9	?	?	KOMP(5)	?
+WFisci	15	?	?	KOMP(5)	?
+WFisci	23	?	?	KOMP(5)	?
+WFisci	24	?	?	KOMP(5)	?
 
-Bibl	1	2A	1	1
-Bibl	3	2A	2	1
-Bibl	4	3A	1	1
-Bibl	5	3A	2	1
-Bibl	7	Biblioteka	1P	1
-Bibl	8	Biblioteka	2P	1
-Bibl	9	Biblioteka	1T	1
-Bibl	10	Biblioteka	2T	1
-Bibl	11	Biblioteka	3T	1
-Bibl	12	Biblioteka	4T	1
-Bibl	16	1A	1	1
-Bibl	23	AP	A1	3
-Bibl	24	Kamery	i	2
+Bibl	1	2A	1	KOMP(5)	
+Bibl	3	2A	2	KOMP(5)	
+Bibl	4	3A	1	KOMP(5)	
+Bibl	5	3A	2	KOMP(5)	
+Bibl	7	Biblioteka	1P	KOMP(5)	
+Bibl	8	Biblioteka	2P	KOMP(5)	
+Bibl	9	Biblioteka	1T	KOMP(5)	
+Bibl	10	Biblioteka	2T	KOMP(5)	
+Bibl	11	Biblioteka	3T	KOMP(5)	
+Bibl	12	Biblioteka	4T	KOMP(5)	
+Bibl	16	1A	1	KOMP(5)	
+Bibl	23	AP	A1	WIFI(3)	
+Bibl	24	Kamery	i	CAMR(6)	

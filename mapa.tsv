@@ -103,8 +103,8 @@ Serv 3	20	Kamera	15	CAMR(6)
 Serv 3	21	Kamera	30	CAMR(6)	
 Serv 3	22	Kamera	6	CAMR(6)	
 Serv 3	22	Kamera	17	CAMR(6)	
-Serv 3	25	Blok A	-	TRUNK	
-Serv 3	26	WFisci	-	TRUNK	
+Serv 3	25	WFisci	-	TRUNK	Tymczasowo
+Serv 3	26	Blok A	-	TRUNK	Tymczasowo
 
 WFisci	? 	WF-Damski	1	KOMP(5)	1 Kreska
 WFisci	?	WF-Damski	2	KOMP(5)	Gruby

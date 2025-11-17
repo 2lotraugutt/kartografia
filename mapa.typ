@@ -5,11 +5,11 @@
   linebreak()
 }
 = Podstawowa Topologia
-#include "basic_topology.typ"
+#include "typ/basic_topology.typ"
 = Organizacja Logiczna
-#include "logical_topology.typ"
+#include "typ/logical_topology.typ"
 #pagebreak()
 = Mapa Sieci
-#include "map_table.typ" 
+#include "typ/map_table.typ" 
 = Urządzenia
-#include "ipaddr_table.typ"
+#include "typ/ipaddr_table.typ"

@@ -1,4 +1,4 @@
-#let mapa = csv("./mapa.tsv", delimiter: "\t");
+#let mapa = csv("/mapa.tsv", delimiter: "\t");
 
 #set table(
   stroke: none,
